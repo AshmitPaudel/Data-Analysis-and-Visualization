@@ -5,9 +5,6 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# HTML files generated from notebooks (if you want to ignore them)
-*.html
-
 # Distribution / packaging
 *.egg-info/
 dist/
@@ -15,3 +12,4 @@ build/
 
 # Environment variables
 .env
+
